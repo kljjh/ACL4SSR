@@ -124,8 +124,9 @@ hosts:
 #    type: select
 #    proxies:
 #      - Shadowsocks
-#rules:
+rules:
 #  - 'MATCH,DIRECT'
+  - AND,((NETWORK,UDP),(DST-PORT,443),(GEOSITE,youtube)),REJECT
 
 # Clash for Windows
 # Proxies module latency test settings
