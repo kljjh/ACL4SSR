@@ -124,9 +124,6 @@ hosts:
 #    type: select
 #    proxies:
 #      - Shadowsocks
-script:
-  shortcuts:
-    quic: network == 'udp' and dst_port == 443
 
 #rules:
 #- SCRIPT,quic,REJECT,no-resolve
@@ -241,3 +238,6 @@ cfw-bypass-bak:
   - 192.168.*
   - <local>
 # 系统代理跳过列表 起作用的
+script:
+  shortcuts:
+    quic: network == 'udp' and dst_port == 443
