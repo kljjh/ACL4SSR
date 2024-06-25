@@ -124,9 +124,12 @@ hosts:
 #    type: select
 #    proxies:
 #      - Shadowsocks
+script:
+  shortcuts:
+    quic: network == 'udp' and dst_port == 443
+
 rules:
-#  - 'MATCH,DIRECT'
-  - AND,((NETWORK,UDP),(DST-PORT,443),(GEOSITE,youtube)),REJECT
+- SCRIPT,quic,REJECT,no-resolve
 
 # Clash for Windows
 # Proxies module latency test settings
