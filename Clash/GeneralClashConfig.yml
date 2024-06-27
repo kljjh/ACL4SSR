@@ -61,6 +61,7 @@ experimental:
 hosts:
    'mtalk.google.com': 108.177.125.188
    google.cn: google.com
+   googleapis.cn: googleapis.com
 
 # meta内核的DNS配置
 dns:
