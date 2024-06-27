@@ -79,6 +79,7 @@ dns:
     "geosite:cn,private":
     - https://223.5.5.5/dns-query
     - https://223.6.6.6/dns-query
+    - 223.5.5.5
 
 #tun内核
 #dns:
@@ -150,8 +151,8 @@ dns:
 
 # Clash for Windows
 # Proxies module latency test settings
-cfw-latency-timeout: 3000
-cfw-latency-url: http://www.gstatic.com/generate_204
+#cfw-latency-timeout: 3000
+#cfw-latency-url: http://www.gstatic.com/generate_204
 
 # 混合配置（mixin）
 # 支持向所有配置文件中注入公共属性设置
@@ -178,10 +179,10 @@ cfw-latency-url: http://www.gstatic.com/generate_204
 # Options for proxy: none, chain(proxy group in connection chains), all
 # Options for profile: true, false
 # Options for mode: true, false
-cfw-conn-break-strategy:
-  proxy: none # none/chain/all
-  profile: true # true/false
-  mode: true # true/false
+#cfw-conn-break-strategy:
+  #proxy: none # none/chain/all
+  #profile: true # true/false
+  #mode: true # true/false
 
 # 自定义状态栏图标
 #cfw-tray-icon:
@@ -202,7 +203,7 @@ cfw-conn-break-strategy:
 #  latency：按节点延迟升序排列
 #  alphabet：按节点名称字母表排列
 # Sort proxies in Proxies module by default/latency/alphabet
-cfw-proxies-order: default
+#cfw-proxies-order: default
 
 # 子进程 启动其他应用
 # Run child process after CFW started
@@ -234,27 +235,27 @@ cfw-proxies-order: default
 # System proxy will ignore these domains(or ipnet)
 # 系统代理跳过列表-备份的，不起作用，
 # 使用时可以将cfw-bypass-bak与cfw-bypass内容互换
-cfw-bypass-bak:
+#cfw-bypass-bak:
   # 原有字段不用删除
-  - localhost
-  - 127.*
-  - 10.*
-  - 172.16.*
-  - 172.17.*
-  - 172.18.*
-  - 172.19.*
-  - 172.20.*
-  - 172.21.*
-  - 172.22.*
-  - 172.23.*
-  - 172.24.*
-  - 172.25.*
-  - 172.26.*
-  - 172.27.*
-  - 172.28.*
-  - 172.29.*
-  - 172.30.*
-  - 172.31.*
-  - 192.168.*
-  - <local>
+  #- localhost
+  #- 127.*
+  #- 10.*
+  #- 172.16.*
+  #- 172.17.*
+  #- 172.18.*
+ # - 172.19.*
+  #- 172.20.*
+  #- 172.21.*
+  #- 172.22.*
+  #- 172.23.*
+  #- 172.24.*
+  #- 172.25.*
+  #- 172.26.*
+  #- 172.27.*
+  #- 172.28.*
+  #- 172.29.*
+  #- 172.30.*
+  #- 172.31.*
+  #- 192.168.*
+  #- <local>
 # 系统代理跳过列表 起作用的
