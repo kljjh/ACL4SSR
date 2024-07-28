@@ -78,6 +78,7 @@ dns:
   enable: true
   prefer-h3: true
   use-hosts: true
+  ipv6: true
   #listen: :1053
   listen: 0.0.0.0:1053
   enhanced-mode: redir-host
