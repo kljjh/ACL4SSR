@@ -76,7 +76,6 @@ hosts:
 # meta内核的DNS配置
 dns:
   enable: true
-  prefer-h3: true
   use-hosts: true
   ipv6: true
   #listen: :1053
