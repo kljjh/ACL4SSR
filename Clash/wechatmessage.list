@@ -1,0 +1,2 @@
+DOMAIN-REGEX, ^(?:(?!ext)(.*short)|(.+long))\.weixin\.qq\.com
+# 微信消息
