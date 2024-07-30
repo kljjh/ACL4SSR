@@ -1,1 +1,1 @@
-  - DOMAIN-REGEX, .*(extshort|long)\.weixin\.qq\.com, Proxy # 微信 Google FCM
+DOMAIN-REGEX, .*(extshort|long)\.weixin\.qq\.com, Proxy # 微信 Google FCM
