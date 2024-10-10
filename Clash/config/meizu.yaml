@@ -1,0 +1,24 @@
+payload:
+    - DOMAIN-SUFFIX,aider-res.meizu.com
+    - DOMAIN-SUFFIX,api-flow.meizu.com
+    - DOMAIN-SUFFIX,api-game.meizu.com
+    - DOMAIN-SUFFIX,api-push.meizu.com
+    - DOMAIN-SUFFIX,aries.mzres.com
+    - DOMAIN-SUFFIX,bro.flyme.cn
+    - DOMAIN-SUFFIX,cal.meizu.com
+    - DOMAIN-SUFFIX,ebook.meizu.com
+    - DOMAIN-SUFFIX,ebook.res.meizu.com
+    - DOMAIN-SUFFIX,game-res.meizu.com
+    - DOMAIN-SUFFIX,game.res.meizu.com
+    - DOMAIN-SUFFIX,infocenter.meizu.com
+    - DOMAIN-SUFFIX,openapi-news.meizu.com
+    - DOMAIN-SUFFIX,push.res.meizu.com
+    - DOMAIN-SUFFIX,reader.meizu.com
+    - DOMAIN-SUFFIX,reader.res.meizu.com
+    - DOMAIN-SUFFIX,t-e.flyme.cn
+    - DOMAIN-SUFFIX,t-flow.flyme.cn
+    - DOMAIN-SUFFIX,tongji-res1.meizu.com
+    - DOMAIN-SUFFIX,tongji.meizu.com
+    - DOMAIN-SUFFIX,umid.orion.meizu.com
+    - DOMAIN-SUFFIX,upush.res.meizu.com
+    - DOMAIN-SUFFIX,uxip.meizu.com
