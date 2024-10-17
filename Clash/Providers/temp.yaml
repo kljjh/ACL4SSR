@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,gitbook.io,🚀 节点选择
-  - DOMAIN-SUFFIX,metacubex.one,🚀 节点选择
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,acg.rip
 #
 #  - DOMAIN,ad.com,REJECT
