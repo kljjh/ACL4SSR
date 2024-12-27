@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,groq.com
+  - DOMAIN-SUFFIX,gemini.google.com
