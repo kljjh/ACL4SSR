@@ -1,0 +1,7 @@
+payload:
+  # 内容：AI
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,groq.com
