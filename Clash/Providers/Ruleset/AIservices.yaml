@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,volces.com
