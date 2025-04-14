@@ -2,6 +2,10 @@ payload:
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,acg.rip
+  - DOMAIN-SUFFIX,ipwho.is
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,ipapi.co
 #
 #  - DOMAIN,ad.com,REJECT
 #  - DOMAIN-SUFFIX,google.com,auto
