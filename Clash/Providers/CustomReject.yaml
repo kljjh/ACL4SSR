@@ -1,1 +1,3 @@
 payload:
+  - DOMAIN,safe.meizu.com
+  - PROCESS-NAME,com.android.packageinstaller
