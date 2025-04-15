@@ -1,2 +1,4 @@
 payload: 
 #  - DOMAIN,public.dns.iij.jp
+  - DOMAIN,ta.pinduoduo.com
+  - DOMAIN,th.pinduoduo.com
