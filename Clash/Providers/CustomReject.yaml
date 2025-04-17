@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,hostsafe.meizu.com
   - DOMAIN,safe.meizu.com
 #  - DOMAIN,aider-oss.meizu.com
   - DOMAIN,open-iflow.meizu.com
