@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,ip.sb
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,ipapi.co
+  - DOMAIN-SUFFIX,ping0.cc
 #
 #  - DOMAIN,ad.com,REJECT
 #  - DOMAIN-SUFFIX,google.com,auto
