@@ -5,3 +5,4 @@ payload:
   - DOMAIN,open-iflow.meizu.com
   - DOMAIN,api-flow.flyme.cn
   - PROCESS-NAME,com.android.packageinstaller
+  - PROCESS-NAME,com.meizu.net.search
