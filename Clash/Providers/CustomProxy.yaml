@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,ipapi.co
   - DOMAIN-SUFFIX,ping0.cc
   - DOMAIN-SUFFIX,mangacopy.com
+  - DOMAIN-SUFFIX,linux.do
+  - DOMAIN-SUFFIX,wechatmini.59wanmei.com
 #
 #  - DOMAIN,ad.com,REJECT
 #  - DOMAIN-SUFFIX,google.com,auto
