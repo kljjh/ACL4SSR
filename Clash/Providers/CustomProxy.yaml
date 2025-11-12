@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,mangacopy.com
   - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,wechatmini.59wanmei.com
+  - DOMAIN-SUFFIX,s1.17wanxiao.com
 #
 #  - DOMAIN,ad.com,REJECT
 #  - DOMAIN-SUFFIX,google.com,auto
