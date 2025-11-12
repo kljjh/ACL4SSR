@@ -1,5 +1,9 @@
 payload: 
   - DOMAIN-SUFFIX,sigmob.cn
+  - DOMAIN-SUFFIX,wechatmini.59wanmei.com
+  - DOMAIN-SUFFIX,s1.17wanxiao.com
+  - DOMAIN-SUFFIX,ecardh5.17wanxiao.com
+#
 #  - DOMAIN,public.dns.iij.jp
 #  - DOMAIN,ta.pinduoduo.com
 #  - DOMAIN,th.pinduoduo.com
