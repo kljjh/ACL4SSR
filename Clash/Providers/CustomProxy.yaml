@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,mangacopy.com
   - DOMAIN-SUFFIX,linux.do
   - PROCESS-NAME,jp.co.cbet.pokerChase
+  - PROCESS-NAME,com.larus.wolf
   - DOMAIN-SUFFIX,saucenao.com
 #  - DOMAIN,ad.com,REJECT
 #  - DOMAIN-SUFFIX,google.com,auto
