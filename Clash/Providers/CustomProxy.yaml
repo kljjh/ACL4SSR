@@ -12,6 +12,7 @@ payload:
   - PROCESS-NAME,jp.co.cbet.pokerChase
   - PROCESS-NAME,com.larus.wolf
   - DOMAIN-SUFFIX,saucenao.com
+  - DOMAIN,android.apis.google.com
 #  - DOMAIN,ad.com,REJECT
 #  - DOMAIN-SUFFIX,google.com,auto
 #  - DOMAIN-KEYWORD,google,auto
